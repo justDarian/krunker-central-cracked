@@ -369,6 +369,12 @@ function cheat() {
           if (location.host == "krunker.io" && _0x58fee9.textContent.includes("Connection Banned")) {
             localStorage.removeItem("krunker_token");
             alert("You have been banned, refresh cookies, and change ip, using a VPN")
+            if (localStorage.getItem("dogeware")) {
+                window.DWBK = localStorage.getItem("dogeware")
+                localStorage.clear()
+                localStorage.setItem("dogeware", window.DWBK)
+                window.location.reload()
+            }
           } else if (this.settings.autoServer && this.arrayTest(_0x58fee9, ["Kicked", "Banned", "Disconnected", "Error", "Game is full"], _0x3ddfc0 => _0x58fee9.innerHTML.includes(_0x3ddfc0))) {
             location = document.location.origin;
           }
