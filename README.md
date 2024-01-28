@@ -1,6 +1,6 @@
 # krunker-cheat
-removed key on a skidded cheat and released for free
+The **BEST** Krunker Cheat of 2024
 
-# install
-make sure you have tampermonkey <br> Click the link below <br>
+# Installation
+Install [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) And then click the link below! <br>
 [https://github.com/justDarian/krunker-cheat/raw/main/kranker.user.js](https://github.com/justDarian/krunker-cheat/raw/main/kranker.user.js)
