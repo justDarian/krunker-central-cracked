@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name        Krunker Aimbot & ESP
-// @namespace   Krunker Scripts
+// @name        Krunker Central Cracked
+// @namespace   krunker funny
 // @match       *://krunker.io/*
 // @grant       none
-// @version     1.0
+// @version     6.9
 // @author      Krunker Central && justDarian
 // @description A Krunker hack by Krunker Central, modded by justDarian
 // @run-at      document-start
