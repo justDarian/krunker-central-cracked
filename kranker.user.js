@@ -1002,7 +1002,7 @@ function cheat() {
         _0x1d7118.className = "menuItemIcon";
         _0x26deda.className = "menuItemTitle";
         _0x26deda.innerHTML = _0x5c0bf7;
-        _0x1d7118.style.backgroundImage = "url(\"https://krunkercentral.com/wp-content/uploads/2022/10/kc-logo-icon.png\")";
+        _0x1d7118.style.backgroundImage = "url(\"https://media.discordapp.net/attachments/1136080153596936295/1200257908525502515/server_icon.png?ex=65c58649&is=65b31149&hm=1e3d347707c19a80edbda8da237bb0180a98e782590df26d0e2d0fee82e9e836&=&format=webp&quality=lossless&width=190&height=151\")";
         _0x1d7118.style.width = "50px";
         _0x1d7118.style.height = "50px";
         _0x1d7118.style.backgroundSize = "contain";
@@ -1075,7 +1075,7 @@ function cheat() {
         br: () => "<br>",
         style: _0x7e261c => "<style>" + _0x7e261c + "</style>"
       };
-      let _0x2a4cd2 = "<div id=\"settHolder\">\n<img src=\"https://krunkercentral.com/wp-content/uploads/2022/10/kc-banner-new.png\" width=\"100%\">\n";
+      let _0x2a4cd2 = "<div id=\"settHolder\">\n<img src=\"https://github.com/DevTech-Services/DevHaxx/blob/main/haxx.png?raw=true\" width=\"100%\">\n";
       Object.keys(_0x9d54af).forEach(_0x227512 => {
         const _0x409471 = _0x9d54af[_0x227512];
         _0x9d54af[_0x227512] = function () {
